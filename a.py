@@ -1,8 +1,8 @@
 # import imapclient
-import os 
+# import os 
 import email
 import imaplib
-import configparser
+# import configparser
 import smtplib
 from email.mime.text import MIMEText
 
